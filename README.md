@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **GraphQL and AWS**
 
-- 👨‍💻 All of my projects are available at [https://nnabuefavour.netlify.app/](https://nnabuefavour.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nnabuefavour.netlify.app/](https://nnabuefavour-c.netlify.app/)
 
 - 📝 I regularly write articles on [http://blog.decagonhq.com/](http://blog.decagonhq.com/)
 
