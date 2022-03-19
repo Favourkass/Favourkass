@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nnabuekassidy@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1LwFVu4N0jRoR707DMLur5i8GhByxsQuKfKIMKJLS4hI/edit?usp=sharing](https://docs.google.com/document/d/1LwFVu4N0jRoR707DMLur5i8GhByxsQuKfKIMKJLS4hI/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1dIPKje7l0Fj3nPUJyHbtJRDqBnQcEy0xAY2F3K8o7BM/edit?usp=sharing](https://docs.google.com/document/d/1dIPKje7l0Fj3nPUJyHbtJRDqBnQcEy0xAY2F3K8o7BM/edit?usp=sharing)
 
 - ⚡ Fun fact **I am funny and like to lighten the amosphere**
 
