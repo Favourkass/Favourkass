@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nnabue Favour</h1>
-<h3 align="center">A passionate fullstack developer from Nigeria, specialised in django restframework for backend and Reactjs for frontend</h3>
+![IMG_20210929_183250_820](https://user-images.githubusercontent.com/81357407/168871522-e256ef4f-b67f-4ee8-bf21-9d0bb0190357.jpg)
+
+
+<h3 align="center">A passionate fullstack dev![Uploading IMG_20210929_183250_820.jpg…]()
+eloper from Nigeria, specialised in django restframework for backend and Reactjs for frontend</h3>
 
 - 🌱 I’m currently learning **GraphQL and AWS**
 
