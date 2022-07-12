@@ -11,7 +11,7 @@ eloper from Nigeria, specialised in django restframework for backend and Reactjs
 
 - 📝 I regularly write articles on [http://blog.decagonhq.com/](http://blog.decagonhq.com/)
 
-- 💬 Ask me about **reactjs, django, django restframework**
+- 💬 Ask me about **reactjs, django, django restframework, React native**
 
 - 📫 How to reach me **nnabuekassidy@gmail.com**
 
