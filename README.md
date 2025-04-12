@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nnabue Favour</h1>
 
 
-<h3 align="center">A passionate frontend dev![Uploading IMG_20210929_183250_820.jpg…]()
-eloper from Nigeria, specialised in react native for mobile and Reactjs/next for frontend</h3>
+<h3 align="center">A passionate frontend developer from Nigeria, specialised in react native for mobile and Reactjs/next for frontend</h3>
 
 - 🌱 I’m currently learning **GraphQL and AWS**
 
