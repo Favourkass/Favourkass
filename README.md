@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nnabuefavour-c.netlify.app/](https://nnabuefavour-c.netlify.app/)
 
-- 💬 Ask me about **reactjs, React native, node, django, django restframework, **
+- 💬 Ask me about **reactjs, React native, node, django, django restframework**
 
 - 📫 How to reach me **nnabuekassidy@gmail.com**
 
