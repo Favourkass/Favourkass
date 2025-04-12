@@ -7,9 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nnabuefavour-c.netlify.app/](https://nnabuefavour-c.netlify.app/)
 
-- 📝 I regularly write articles on [http://blog.decagonhq.com/](http://blog.decagonhq.com/)
-
-- 💬 Ask me about **reactjs, django, django restframework, React native**
+- 💬 Ask me about **reactjs, React native, node, django, django restframework, **
 
 - 📫 How to reach me **nnabuekassidy@gmail.com**
 
